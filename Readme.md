@@ -7,6 +7,7 @@ This project is a Streamlit-based chat application that interacts with the Googl
 
 https://github.com/user-attachments/assets/ff545378-8f85-4738-9c43-582f40a3d1b2
 
+![image](https://github.com/user-attachments/assets/b7668cca-9f2d-49a3-9c77-357dbad375ee)
 
 ## Getting Started
 ### Page Structure
